@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.navbar{
+    width: 100vw;
+    background-color: lightgray;
+    height: 8vh;
+}
+
+.navbar a{
+    color: #0b032d;
+    float: left;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-family: optima;
+}
+
+.navbar a:hover{
+    background-color: #64485c;
+}
+
+.nav-right{
+    float: right;
+}
+
+.aboutImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+    height: 3px;
+    border: none;
+}
+
+.container{
+    margin: auto;
+    display: inline-flex;
+}
+
+.left{
+    float: left;
+    margin-left: 50px;
+}
+
+.right{
+    float: right;
+    font-family: optima;
+    text-align: center;
+    margin: 20px;
+}
+
+.clear{
+    clear: both;
+}
+
+.button{
+    background-color: #74546a;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+    font-family: optima;
+    border-radius: 8px;
+    font-size: x-large;
+}
+
+li{
+    list-style-type: none;
+    margin: 0 4vw;
+    font-size: x-large;
+}
+
+ul{
+    display: flex;
+    margin: 0;
+    padding: 2vh;
+}
+
+.socialMediaFooter {
+    padding: 1rem;
+    background: #74546a;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  
+  .socialMediaFooter .socialMediaIcons li:last-of-type {
+    margin: auto;
+  }
+  
+  .socialMediaFooter .socialMediaIcons .fa {
+    font-size: 1.5rem;
+    color: #fefefe;
+  }
+  
+  .socialMediaFooter .socialMediaIcons .fa:hover {
+    color: #4a4a4a;
+    transition: color 0.3s ease-in;
+  }
+  
+
+
+
+
