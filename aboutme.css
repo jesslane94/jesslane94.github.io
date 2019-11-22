@@ -86,7 +86,7 @@ ul{
     padding: 2vh;
 }
 
-.socialMediaFooter {
+.socialMediaFooter{
     padding: 1rem;
     background: #74546a;
     display: -webkit-flex;
@@ -98,21 +98,21 @@ ul{
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between;
-  }
+}
   
-  .socialMediaFooter .socialMediaIcons li:last-of-type {
+  .socialMediaFooter .socialMediaIcons li:last-of-type{
     margin: auto;
-  }
+}
   
-  .socialMediaFooter .socialMediaIcons .fa {
+  .socialMediaFooter .socialMediaIcons .fa{
     font-size: 1.5rem;
     color: #fefefe;
-  }
+}
   
-  .socialMediaFooter .socialMediaIcons .fa:hover {
+  .socialMediaFooter .socialMediaIcons .fa:hover{
     color: #4a4a4a;
     transition: color 0.3s ease-in;
-  }
+}
   
 
 

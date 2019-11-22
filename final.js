@@ -1,3 +1,4 @@
+//js requirement
 
 /* referred to: https://stackoverflow.com/questions/53178768/automatic-slideshow-with-arrows-and-buttons
 for all the carousel code */
