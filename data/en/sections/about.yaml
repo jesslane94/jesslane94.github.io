@@ -15,63 +15,68 @@ company:
   url: "https://sinclairdigital.com/"
 
 # a summary about you
-summary: 'I am a passionate fullstack/backend software engineer with 1 year of working experience. I like to build interactive web experiences and work with resource set up and pipelines.'
+summary: |
+  I am a passionate fullstack/backend software engineer with 1 year of professional working experience. 
+  I like to build interactive web experiences and setup pipelines & backend resources for projects.
+
+  I would say by now that I have a very diverse set of skills! 
+  I have been a physical therapy aide, personal trainer, and I currently do art/illustration outside of my job! But my passion for solving problems, creativity, 
+  and tenacity help me excel in the tech industry. I am enthusiastic about building community and welcome opportunities to give back and grow connections.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "jesslane94@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "jesslane94@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/jesslane94"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/jesslane94"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/jessicalane9794/"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/jessicalane9794/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+  - title: "My Resume"
+    url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-# - type: certification
-#   name: AWS Databricks Platform Architect
-#   url: "https://credentials.databricks.com/0833439c-03dd-4762-a5c4-bc30b0b73cf8#acc.tEBNgLTs"
-#   badge: ""
+  # - type: certification
+  #   name: AWS Databricks Platform Architect
+  #   url: "https://credentials.databricks.com/0833439c-03dd-4762-a5c4-bc30b0b73cf8#acc.tEBNgLTs"
+  #   badge: ""
 
-- type: soft-skill-indicator
-  name: Adaptable
-  percentage: 80
-  color: "#d94361"
+  - type: soft-skill-indicator
+    name: Adaptable
+    percentage: 80
+    color: "#d94361"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 25
-  color: orange
+  - type: soft-skill-indicator
+    name: Leadership
+    percentage: 50
+    color: orange
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+  - type: soft-skill-indicator
+    name: Team Work
+    percentage: 90
+    color: yellow
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 95
-  color: green
+  - type: soft-skill-indicator
+    name: Hard Working
+    percentage: 95
+    color: green
 
-- type: soft-skill-indicator
-  name: Communication
-  percentage: 90
-  color: blue
-
+  - type: soft-skill-indicator
+    name: Communication
+    percentage: 90
+    color: blue
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
